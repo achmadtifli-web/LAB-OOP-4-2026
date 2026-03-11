@@ -34,9 +34,9 @@ dikerjakan.
 ```
 git commit -m"'feat': tugas praktikum-1"
 ```
-8. Lakukan push ke repositori masing-masing:
+7. Lakukan push ke repositori masing-masing:
 ```
 git push origin xxx
 ``` 
-9. Lakukan pull request pada repositori utama. Pastikan base branch dan
+8. Lakukan pull request pada repositori utama. Pastikan base branch dan
 compare branch sesuai dengan NIM Anda masing-masing.
